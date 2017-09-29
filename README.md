@@ -2,9 +2,7 @@
 We resolved the conflict.
 
 asdasd
-kokokoskdasokdkoaoks
-
-asddddddddddddddddddddd
+ddddddddddddddd
 	
 sssss
 Its me again.
