@@ -1,2 +1,3 @@
 # exercises
-I love to make conflicts.
+We resolved the conflict.
+
